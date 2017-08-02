@@ -17,36 +17,36 @@ public class MainController {
 	private final Logger logger = LoggerFactory.getLogger(MainController.class);
     
     @GetMapping
-    public List<Object> findAllObjects(){
+    public List<Object> findAllAccounts(){
     	logger.info("GET ALL OBJECTS");
     	return null;
     }
     
     @GetMapping("/{objId}")
-    public Object findObject(@PathVariable Long objId){
+    public Object findAccount(@PathVariable Long objId){
     	logger.info("GET MAPPING");
     	return null;
     }
     
     @PostMapping
-    public Object createObject(@RequestBody Object obj){
+    public Object createAccount(@RequestBody Object obj){
     	logger.info("POST MAPPING");
     	return null;
     }
     
     @DeleteMapping("/{objId}")
-    public void deleteObject(@PathVariable Long objId){
+    public void deleteAccount(@PathVariable Long objId){
     	logger.info("DELETE MAPPING");
     }
     
     @PutMapping("/{objId}")
-    public Object updateObject(@RequestBody Object obj, @PathVariable Long objId){
+    public Object updateAccount(@RequestBody Object obj, @PathVariable Long objId){
     	logger.info("PUT MAPPING");
     	return null;
     }
     
     @PatchMapping("/{objId}")
-    public Object updateObject(@RequestBody Map<String, String> updates, @PathVariable Long objId){
+    public Object updateAccount(@RequestBody Map<String, String> updates, @PathVariable Long objId){
     	logger.info("PATCH MAPPING");
     	return null;
     }
