@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.wip.boot</groupId>
+	<groupId>com.wip.mic</groupId>
 	<artifactId>microservices</artifactId>
-	<packaging>jar</packaging>
+	<packaging>pom</packaging>
 	<version>1.0</version>
-	<name>microservices Maven Webapp</name>
+	<name>microservicios parent</name>
 	<url>http://maven.apache.org</url>
 
 	<parent>
@@ -66,4 +66,8 @@
             <url>https://repo.spring.io/libs-release</url>
         </pluginRepository>
     </pluginRepositories>
+    
+    <modules>
+    	<module>Accounts</module>
+    </modules>
 </project>

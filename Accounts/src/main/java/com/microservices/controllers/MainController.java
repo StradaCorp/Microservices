@@ -11,19 +11,10 @@ import org.springframework.web.bind.annotation.*;
 //import com.microservices.vo.Greeting;
 
 @RestController
-@RequestMapping("/objects")
+@RequestMapping("/v1")
 public class MainController {
 	
 	private final Logger logger = LoggerFactory.getLogger(MainController.class);
-
-//	private static final String template = "Hello, %s!";
-//    private final AtomicLong counter = new AtomicLong();
-
-//    @RequestMapping("/greeting")
-//    public Greeting greeting(@RequestParam(value="name", defaultValue="World") String name) {
-//        return new Greeting(counter.incrementAndGet(),
-//                            String.format(template, name));
-//    }
     
     @GetMapping
     public List<Object> findAllObjects(){
