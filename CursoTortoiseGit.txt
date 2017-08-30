@@ -13,3 +13,7 @@ Alehamed probando git
 
 
 Tercera prueba de modificacion.
+
+----------------------------------------------
+
+Cuarta modificacion, usando Resolve.
