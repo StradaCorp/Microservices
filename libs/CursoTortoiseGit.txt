@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+Curso Tortuaa
+2017 August 30
+Cambio de Rafa.
+Cambio en primera línea.Cambio Tortoise por Tortua
+=======
 Curso Tortoise
 <<<<<<< HEAD
 2017 August 30
@@ -13,7 +19,14 @@ Alehamed probando git
 
 
 Tercera prueba de modificacion.
+<<<<<<< HEAD:CursoTortoiseGit.txt
 
 ----------------------------------------------
 
 Cuarta modificacion, usando Resolve.
+=======
+>>>>>>> 0dd2417be29ac20ba8b580616ebe039712576ba6
+
+
+cambio alehamed
+>>>>>>> db920c3092af0c8901fa9570f05e61b7588c3a96:libs/CursoTortoiseGit.txt
