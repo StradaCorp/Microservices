@@ -1,2 +1,22 @@
-Curso Tortoise
+<<<<<<< HEAD
+Curso Tortuaa
 2017 August 30
+Cambio de Rafa.
+Cambio en primera línea.Cambio Tortoise por Tortua
+=======
+Curso Tortoise
+<<<<<<< HEAD
+2017 August 30
+<<<<<<< HEAD
+
+Escribiendo para probar Commit, Pull y Push.
+=======
+Alehamed probando git
+>>>>>>> 8aa96612ccfde68b51229d5d769ed4d8483f3e94
+=======
+2017 August 30 juanLuis
+>>>>>>> 8e715afefff82eaf9ba558b1adbc339b71e3fae1
+
+
+Tercera prueba de modificacion.
+>>>>>>> 0dd2417be29ac20ba8b580616ebe039712576ba6
