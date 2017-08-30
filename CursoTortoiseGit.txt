@@ -1,3 +1,7 @@
 Curso Tortoise
+<<<<<<< HEAD
 2017 August 30
 Alehamed probando git
+=======
+2017 August 30 juanLuis
+>>>>>>> 8e715afefff82eaf9ba558b1adbc339b71e3fae1
