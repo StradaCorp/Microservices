@@ -1,8 +1,12 @@
 Curso Tortoise
 <<<<<<< HEAD
 2017 August 30
+<<<<<<< HEAD
 
 Escribiendo para probar Commit, Pull y Push.
+=======
+Alehamed probando git
+>>>>>>> 8aa96612ccfde68b51229d5d769ed4d8483f3e94
 =======
 2017 August 30 juanLuis
 >>>>>>> 8e715afefff82eaf9ba558b1adbc339b71e3fae1
